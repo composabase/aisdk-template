@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+yarn-error.log
+yarn.lock
+package-lock.json
+.yalc/
+yalc.lock
+
+# generated files
+src/graphql/generated
+
+# environment variables
+.env
+
+templates/
