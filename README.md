@@ -221,7 +221,7 @@ query foodRecipe {
     }
     steps
     suggestion {
-      entry
+      starter
       drink
       dessert
     }
